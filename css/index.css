@@ -74,7 +74,7 @@ body{
     }
     hr{
         width: 8%;
-        margin-left: 700px;
+        margin: auto;
         margin-top: 5px;
     }
     .bbpi1{
@@ -85,6 +85,7 @@ body{
         border-radius: 15px;
         box-shadow: 8px 8px 20px grey;
     }
+   
     .bbpi1 img{
         width: 350px;
         height: 240px;
@@ -155,6 +156,28 @@ body{
         width: 650px;
         height: auto;
     }
+
+    .cotact{
+        margin-left: 40px;
+    }
+    
+    .button {
+        background-color: #055B8D;
+        border: none;
+        color: white;
+        padding: 10px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        border-radius: 15px;
+      }
+
+      .button a{
+          color: white;
+        text-decoration: none;
+
+      }
 
     .footer{
         color: darkgray;
